@@ -1,2 +1,2 @@
-# R
-Compilation of R coding projects.
+# Data Science Portfolio
+Compilation of academic and passion projects in the Data Science discipline.
